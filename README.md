@@ -1,2 +1,2 @@
-Toto je moj novy *repo* na skoleni **GIT**, kde budeme pouzivat aj `kod`.
+Toto je moj novy *repo* na skoleni **GIT**, kde budeme mozno pouzivat aj `kod`.
 
